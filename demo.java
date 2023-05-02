@@ -1,5 +1,6 @@
 public class Demo{
 
-	public Integer m2(){
+	publi String method1(){
+
 	}
 }
